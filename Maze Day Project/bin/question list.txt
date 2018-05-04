@@ -1,0 +1,70 @@
+Jane went to the store 8 times this month and bought 4 tickets each time. How many total tickets did Jane buy this month?
+32
+19
+20
+1
+Dennis and his 3 friends bought 16 boxes of chocolate. How many boxes do Dennis and his friends each get?
+4
+8
+2
+1
+Lori, Beth, and Courtney each bought three 6 dollar drinks. How much do each of them spend on their drinks?
+20
+14
+18
+3
+Marty traveled on one highway for 70 miles, then on another highway for 50 miles. How many total miles did Marty travel?
+110
+120
+130
+1
+Michelle and Tina both ate 450 calories worth of food at dinner. How many calories did they eat in total?
+850
+900
+450
+2
+Kyle has 80 dollars to spend on his 4 friends for their birthdays. How much can he spend on each of his friends?
+25
+19
+20
+3
+Kelly and her brother go to the store and buy apples for 4 dollars, cereal for 3 dollars, and a plant for 6 dollars. How much did they spend?
+13
+15
+11
+1
+Paulie needs to study for his test for 15 hours. If he has 5 days to study, how long should he study each day?
+4
+5
+3
+3
+Nelson and Jerry split a 42 dollar bill at a restaurant evenly. How much do they each pay for their meal?
+35
+21
+19
+2
+Cheryl and her family are planning a trip. If they have 16 people going and 2 people can fit in each room at a hotel, how many rooms should they buy?
+8
+6
+10
+1
+John and Frank both ate 35 ounces of soup at dinner. How many ounces of soup did they eat in total?
+34
+70
+80
+2
+Angie and her brother go to the store and buy raspberries for 2 dollars, pasta for 5 dollars, and a cake for 10 dollars. How much did they spend?
+17
+15
+20
+1
+Jack and his 4 friends bought 30 boxes of chocolate. How many boxes do Jack and his friends each get?
+6
+8
+3
+1
+Wesley, Brian, and Collin each bought five 2 dollar drinks. How much do each of them spend on their drinks?
+15
+14
+10
+3

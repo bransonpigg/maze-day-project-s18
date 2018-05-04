@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "maze-day",
+  "private_key_id": "53d3ea632fedaee9b371942a1b1fd89a1f24927c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDjnFwhxH+d6NB\na4QlV5nL2fCKWo5QaYImxeWPNEhUFEPkB9RKSPvDYXT5rzk1DUhZaCV64Oxdil20\n7uHxdKKGv+WkkqaOdwLszNV6in1NF6O5nH7NxPFcbVLrCiVz0CSQJEMMVPI4N0kP\n7hEd5+stcOmqcbZOyv/aMf9T/z2Y2v4axeGdlakNewHdPr2TmaYl96gJX9q5BTDq\nqT8LKP6GqyPxv7ZXgfh0FfH3KsOi4pXNkZ/I2ksm4+7MMKrQXm809lM6rWCN3j7X\ntKF4roIkQvvJulDbVafJxItDgdnckXiHN8nKX5WHcOe09+NmOezgm6qS/vwSh4hd\niRwtC9qzAgMBAAECggEABaVDGSCNIG+LwwO7mOhihEQScawTl7a0DzJ/Yhb8T5EW\nNKsVMd/RhN53Zg3s9N8hS5N6IYYEzN6Fvgd3dmULnCBGHO4u6MX+y59OOm9tFqCs\nFVuzPXWGEkkFr8tnMWS86XxigySgqYbPESqqS9a6L2GnHUiTHss1f7MZz+76dEMx\nTOmV1uLmOe2pllg5IRepf+gF6SsWYuRpsxt+nz39LMSzK8SDg8sjkDZg1ymvtPFx\neX91qmORbLzDF3G0z0UTkRx6u8pwmxVQPpY8uFY4aoAHUpQpklFeaJdxT3YZVyky\ndJlAsP2EmtwsFrA14iYd3YJt2TyqMSvxjRrPmMZVYQKBgQDo29ozhZv2lv2Ksl+q\nlyIxvbvuI6XrZkBxbFe1OPAuod7cEmyW+Sh9R6FGfKOae/1GYJp8nxkbCabuTrR3\n9F0tnF8iFHEm7dcqD6cHvjJiar1byg1ZysoF1FzILaTl+klEKSv1++Lsnv9vX1Ww\n7XshWLLHd8EHx4ANqNnaJhL8ZQKBgQDW/ZVAs7+ip8G5vMHrTHYFg6E7FtfDN1QX\nxzjy/W/18p2+Vm/nlKeBNwR+WSvYsdXUK1nA83cQrohBaM+DXrn4xpar+J0NCdkq\n/DdeYvMXgkG5n/LDUAMlNhob/quXtHnHVoIubdmI7Kr7dyYt0pa+DQLz7frrYo3g\nUII9wOSNNwKBgF+K5YrCRW32Ie2opowOGt+h49wgEFH30HU5aPtYc2QO0qwlexyu\n+qf8nfWX6mDWguM/e+OqO9jWKwIYlP+q6hhu0rHfBVZdvCzr4zLQHUg4V52z16qC\nBEZEDhWsdL5P5YPsCLeTNFa2HkSKL1S6/AyAokopnrAccTQplclmWd/pAoGAUcIv\n72IsH5RCdPsWmAAE5gXv28PNG90/qqdFvgqpeFPir0650czTgq1ElTQeG5NNqRkv\nUdSE1CA7ivxr5h6xBK2pAQ9T0nCLWPB/sfJZVfhgPFJahPI5r/4KIdlQsimdIjSA\n311BG/Q89dKS/1wVnYLfO5qmELvzDnovfYKMqDMCgYAks6qjxaR/nEHkeHo7//L7\nCRmFXYDuLPMJamsGs25uq6gqBgFY/U9MvQii/dD8fCRg+GfqgrODmSq53hvdfzBq\nbLTx+AUyDK30EQtIWyWuNtGQ339DORIn1PTaIBHtvSTuweOfcBqYhNHemSsn0u0k\n3Ia7PuokcJr6SIGWsEyvZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bspigg@maze-day.iam.gserviceaccount.com",
+  "client_id": "115016915300455658430",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bspigg%40maze-day.iam.gserviceaccount.com"
+}
